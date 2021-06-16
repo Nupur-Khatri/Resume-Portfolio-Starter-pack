@@ -90,22 +90,6 @@
         "level": "100%"
       },
       {
-        "name": "Presentation",
-        "level": "90%"
-      },
-      {
-        "name": "Communication",
-        "level": "100%"
-      },
-      {
-        "name": "Logical Thinking",
-        "level": "90%"
-      },
-      {
-        "name": "Problem & Solution Analysis",
-        "level": "100%"
-      },
-      {
         "name": "Data Structure & Algorithm",
         "level": "90%"
       },
@@ -128,9 +112,9 @@
         "url": "https://replit.com/@NUPURKHATRI/FrigidAnguishedFont?embed=1&ouput=1#index.js"
       },
       {
-        "title": "Vitmin Game",
+        "title": "Vitamin Game",
         "category": "CLI Apps",
-        "image": "Vitmaingame.jpg",
+        "image": "Vitamingame.jpg",
         "url": "https://replit.com/@NUPURKHATRI/vitmain-game?embed=1&output=1#index.js"
       },
       {
@@ -142,19 +126,19 @@
       {
         "title": "Translate to Yoda language",
         "category": "API Apps",
-        "image": "YodaSpeak",
+        "image": "YodaSpeak.jpg",
         "url": "https://yodatranslator1.netlify.app/"
       },
       {
         "title": "Emoji Dictionary",
         "category": "ReactJs",
-        "image": "FindYourEmoji",
+        "image": "FindYourEmoji.jpg",
         "url": "https://find-your-emoji-by-nupurkhatri.netlify.app/"
       },
       {
         "title": "Find Your Dream Destination for vacation",
         "category": "ReactJs",
-        "image": "Travel",
+        "image": "Travel.jpg",
         "url": "https://j0hc6.csb.app/"
       }
     ]
