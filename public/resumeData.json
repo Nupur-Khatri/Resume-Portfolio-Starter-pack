@@ -4,7 +4,7 @@
     "occupation": "Web Developer",
     "description": "The trick to my life is to just keep learning",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Nupur Khatri! I've been coding for over 4 years now. As a developer I focus over building a responsive and creative blocks. My journey is still going on with a wide space yet to be discovered. My passion is creativity and yes I combine my passion with my work . With this passion, I have an urge to share my knowledge with beginners and so they are most welcomed. Through determined coding hours I have learnt the powers of C, C++, Python, Java, JS, Web Developement and many more tools. Here's my portfolio, have a look at it and feel to contact me.",
+    "bio": "Hi there! I am Nupur Khatri! I've been coding for over 4 years now. As a developer I focus over building a responsive and creative blocks. My journey is still going on with a wide space yet to be discovered. My passion is creativity and yes I combine my passion with my work . With this passion, I have an urge to share my knowledge with beginners and so they are most welcomed. Through determined coding hours I have learnt the powers of C, C++, Python, Java, JS, Web Developement and many more tools. Here's my portfolio, have a look at it and feel free to contact me.",
     "contactmessage": "Get in touch with me to be a part of My coding Family",
     "email": "nupur532002@gmail.com",
     "address": {
@@ -101,6 +101,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Netflix Clone",
+        "category": "API Apps",
+        "image": "Netflix-Clone.png",
+        "url": "https://netflix-cc5dd.web.app/"
+      },
       {
         "title": "Do You Know Me",
         "category": "CLI Apps",
